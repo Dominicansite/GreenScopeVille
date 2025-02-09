@@ -1,79 +1,97 @@
 # LDP
 Learning Developer Python
 
-?? Mes 1: Fundamentos de Programaci車n y Matem芍ticas para IA
-Semana 1: Introducci車n a Python
-D赤a 1-2: Instala Python y Jupyter Notebook. Aprende sobre variables, tipos de datos y operaciones b芍sicas. ? -- Done
-D赤a 3-4: Estructuras de control: condicionales (if-else) y bucles (for, while).
-D赤a 5: Funciones y manejo de errores.
-D赤a 6-7: Proyecto peque?o: Calculadora simple en Python.
+--Mes 1: Fundamentos de Programacion y Matematicas para IA
 
-Semana 2: Listas, Diccionarios y M車dulos
-D赤a 1-2: Listas, tuplas y diccionarios en Python.
-D赤a 3: Funciones avanzadas y comprensi車n de listas.
-D赤a 4-5: Importaci車n de m車dulos y manejo de archivos.
-D赤a 6-7: Proyecto: Mini gestor de tareas usando diccionarios.
+Semana 1: Introduccion a Python
 
-Semana 3: Matem芍ticas para IA (芍lgebra y Estad赤stica B芍sica)
-D赤a 1-2: 芍lgebra lineal: vectores y matrices (usa NumPy).
-D赤a 3-4: Estad赤stica b芍sica: media, mediana, varianza, desviaci車n est芍ndar.
-D赤a 5: Visualizaci車n de datos con Matplotlib.
-D赤a 6-7: Proyecto: An芍lisis simple de datos (por ejemplo, analizar datos de temperatura).
+Dia 1-2: Instala Python y Jupyter Notebook. Aprende sobre variables, tipos de datos y operaciones basicas. (Done)
+Dia 3-4: Estructuras de control: condicionales (if-else) y bucles (for, while). (Done)
+Dia 5: Funciones y manejo de errores.
+Dia 6-7: Proyecto pequeno: Calculadora simple en Python.
 
-Semana 4: Introducci車n a Pandas y Manipulaci車n de Datos
-D赤a 1-2: Introducci車n a Pandas: DataFrames, lectura de CSV.
-D赤a 3-4: Limpieza y manipulaci車n de datos.
-D赤a 5: Operaciones avanzadas en Pandas.
-D赤a 6-7: Proyecto: An芍lisis de un conjunto de datos real (ej: datos de COVID, ventas, etc.).
+Semana 2: Listas, Diccionarios y Modulos
 
-?? Mes 2: Fundamentos de Inteligencia Artificial y Machine Learning
-Semana 5: Introducci車n a la IA y Machine Learning
-D赤a 1: ?Qu谷 es la IA y el Machine Learning? Tipos de aprendizaje (supervisado vs. no supervisado).
-D赤a 2-3: Introducci車n a Scikit-learn. Primer modelo de regresi車n lineal.
-D赤a 4-5: Evaluaci車n de modelos (MSE, R2).
-D赤a 6-7: Proyecto: Predecir precios de casas usando regresi車n lineal.
+Dia 1-2: Listas, tuplas y diccionarios en Python.
+Dia 3: Funciones avanzadas y comprension de listas.
+Dia 4-5: Importacion de modulos y manejo de archivos.
+Dia 6-7: Proyecto: Mini gestor de tareas usando diccionarios.
 
-Semana 6: Clasificaci車n y Clustering
-D赤a 1-2: Algoritmos de clasificaci車n: K-Nearest Neighbors (KNN).
-D赤a 3-4: 芍rboles de decisi車n y Random Forest.
-D赤a 5: Introducci車n al clustering: K-means.
-D赤a 6-7: Proyecto: Clasificar correos electr車nicos en spam o no spam.
+Semana 3: Matematicas para IA (Algebra y Estadistica Basica)
 
-Semana 7: Redes Neuronales B芍sicas
-D赤a 1-2: Conceptos de redes neuronales artificiales.
-D赤a 3-4: Uso de TensorFlow y Keras para construir una red neuronal simple.
-D赤a 5: Entrenamiento y evaluaci車n de modelos.
-D赤a 6-7: Proyecto: Clasificaci車n de im芍genes simples (por ejemplo, d赤gitos escritos a mano con MNIST).
+Dia 1-2: Algebra lineal: vectores y matrices (usa NumPy).
+Dia 3-4: Estadistica basica: media, mediana, varianza, desviacion estandar.
+Dia 5: Visualizacion de datos con Matplotlib.
+Dia 6-7: Proyecto: Analisis simple de datos (por ejemplo, analizar datos de temperatura).
 
-Semana 8: Optimizaci車n y Ajuste de Modelos
-D赤a 1-2: Regularizaci車n y overfitting.
-D赤a 3-4: T谷cnicas de optimizaci車n y validaci車n cruzada.
-D赤a 5: Ajuste de hiperpar芍metros.
-D赤a 6-7: Proyecto: Mejorar el rendimiento de uno de tus modelos anteriores.
+Semana 4: Introduccion a Pandas y Manipulacion de Datos
 
-?? Mes 3: Desarrollo de Producto y Proyecto Final
-Semana 9: Desarrollo de Aplicaciones con IA (Integraci車n)
-D赤a 1-2: Introducci車n a Flask para crear aplicaciones web simples con Python.
-D赤a 3-4: Conectar tu modelo de IA a una API.
-D赤a 5: Dise?o de una interfaz b芍sica para tu IA.
-D赤a 6-7: Proyecto: Aplicaci車n web simple con IA (por ejemplo, un predictor de texto o un clasificador de im芍genes).
+Dia 1-2: Introduccion a Pandas: DataFrames, lectura de CSV.
+Dia 3-4: Limpieza y manipulacion de datos.
+Dia 5: Operaciones avanzadas en Pandas.
+Dia 6-7: Proyecto: Analisis de un conjunto de datos real (ej: datos de COVID, ventas, etc.).
 
-Semana 10: Proyecto Final (Fase 1: Planificaci車n)
-D赤a 1: Define tu proyecto final (elige un problema que quieras resolver con IA).
-D赤a 2-4: Recopila datos y prepara el entorno.
-D赤a 5-7: Entrena el modelo inicial y prueba su rendimiento.
+--Mes 2: Fundamentos de Inteligencia Artificial y Machine Learning
+
+Semana 5: Introduccion a la IA y Machine Learning
+
+Dia 1: ?Que es la IA y el Machine Learning? Tipos de aprendizaje (supervisado vs. no supervisado).
+Dia 2-3: Introduccion a Scikit-learn. Primer modelo de regresion lineal.
+Dia 4-5: Evaluacion de modelos (MSE, R2).
+Dia 6-7: Proyecto: Predecir precios de casas usando regresion lineal.
+
+Semana 6: Clasificacion y Clustering
+
+Dia 1-2: Algoritmos de clasificacion: K-Nearest Neighbors (KNN).
+Dia 3-4: Arboles de decision y Random Forest.
+Dia 5: Introduccion al clustering: K-means.
+Dia 6-7: Proyecto: Clasificar correos electronicos en spam o no spam.
+
+Semana 7: Redes Neuronales Basicas
+
+Dia 1-2: Conceptos de redes neuronales artificiales.
+Dia 3-4: Uso de TensorFlow y Keras para construir una red neuronal simple.
+Dia 5: Entrenamiento y evaluacion de modelos.
+Dia 6-7: Proyecto: Clasificacion de imagenes simples (por ejemplo, digitos escritos a mano con MNIST).
+
+Semana 8: Optimizacion y Ajuste de Modelos
+
+Dia 1-2: Regularizacion y overfitting.
+Dia 3-4: Tecnicas de optimizacion y validacion cruzada.
+Dia 5: Ajuste de hiperparametros.
+Dia 6-7: Proyecto: Mejorar el rendimiento de uno de tus modelos anteriores.
+
+--Mes 3: Desarrollo de Producto y Proyecto Final
+
+Semana 9: Desarrollo de Aplicaciones con IA (Integracion)
+
+Dia 1-2: Introduccion a Flask para crear aplicaciones web simples con Python.
+Dia 3-4: Conectar tu modelo de IA a una API.
+Dia 5: Diseno de una interfaz basica para tu IA.
+Dia 6-7: Proyecto: Aplicacion web simple con IA (por ejemplo, un predictor de texto o un clasificador de imagenes).
+
+Semana 10: Proyecto Final (Fase 1: Planificacion)
+
+Dia 1: Define tu proyecto final (elige un problema que quieras resolver con IA).
+Dia 2-4: Recopila datos y prepara el entorno.
+Dia 5-7: Entrena el modelo inicial y prueba su rendimiento.
 
 Semana 11: Proyecto Final (Fase 2: Desarrollo)
-D赤a 1-3: Optimiza el modelo y mejora la precisi車n.
-D赤a 4-5: Integra el modelo en una aplicaci車n o sitio web simple.
-D赤a 6-7: Pruebas y mejoras finales.
 
-Semana 12: Presentaci車n y Reflexi車n
-D赤a 1-2: Documenta tu proyecto (explica qu谷 hace, c車mo lo hiciste, y c車mo funciona).
-D赤a 3-4: Presenta tu proyecto a amigos o en una comunidad online de IA.
-D赤a 5-7: Reflexiona sobre lo que aprendiste y planifica tu siguiente paso (puede ser otro proyecto o profundizar en un 芍rea espec赤fica).
+Dia 1-3: Optimiza el modelo y mejora la precision.
+Dia 4-5: Integra el modelo en una aplicacion o sitio web simple.
+Dia 6-7: Pruebas y mejoras finales.
 
-?? Recursos Recomendados
+Semana 12: Presentacion y Reflexion
+
+Dia 1-2: Documenta tu proyecto (explica que hace, como lo hiciste, y como funciona).
+Dia 3-4: Presenta tu proyecto a amigos o en una comunidad online de IA.
+Dia 5-7: Reflexiona sobre lo que aprendiste y planifica tu siguiente paso (puede ser otro proyecto o profundizar en un area especifica).
+
+Recursos Recomendados
+
 Python: Curso gratuito en Python.org o en YouTube (Corey Schafer es excelente).
+
 Machine Learning: Curso de Andrew Ng en Coursera.
+
 Kaggle: Para practicar con datasets reales.
