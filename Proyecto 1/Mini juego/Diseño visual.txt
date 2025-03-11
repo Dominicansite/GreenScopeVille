@@ -1,0 +1,69 @@
+1. Guerrero Berserker
+Descripción visual:
+
+Un hombre musculoso con armadura pesada desgastada por el combate, cubierta de grietas y manchas de sangre.
+Lleva un hacha doble gigante con runas incandescentes que brillan en tonos rojos y naranjas.
+Su cabello largo y desordenado flota ligeramente debido a la energía de su furia.
+Una aura roja lo rodea, con partículas de energía que se desprenden de su cuerpo.
+Fondo: Un campo de batalla lleno de cráteres y fuego, con cielos oscuros y relámpagos.
+2. Asesino Sigiloso
+Descripción visual:
+
+Una figura delgada y ágil vestida con ropaje oscuro que parece absorber la luz.
+Lleva dagas gemelas con hojas que brillan débilmente con un veneno verde fluorescente.
+Su capucha cubre parcialmente su rostro, dejando ver solo unos ojos fríos y calculadores.
+Sombras densas lo envuelven, casi fusionándolo con el fondo.
+Fondo: Un callejón oscuro con antorchas distantes y una luna pálida que apenas ilumina el entorno.
+3. Mago Elementalista
+Descripción visual:
+
+Un anciano sabio con una túnica brillante decorada con símbolos mágicos flotantes.
+Sostiene un bastón con una gema flotante en la punta que cambia de color (rojo, azul y amarillo).
+Partículas de energía mágica flotan a su alrededor, como chispas de fuego, gotas de agua y rayos eléctricos.
+Su cabello blanco brilla ligeramente debido a la energía mágica.
+Fondo: Un paisaje onírico con montañas flotantes, ríos de lava y tormentas eléctricas.
+
+4. Hechicero Necromante
+Descripción visual:
+
+Una figura alta y delgada con una túnica negra desgarrada que ondea con un viento fantasmagórico.
+Lleva un libro encantado abierto frente a él, con páginas que se escriben solas.
+Sus ojos brillan en tonos morados, y su piel es pálida y cadavérica.
+Energía oscura emana de sus manos, formando formas abstractas y sombras que se retuercen.
+Fondo: Un cementerio abandonado bajo una luna roja, con lápidas rotas y esqueletos emergiendo del suelo.
+
+5. Caballero Protector
+Descripción visual:
+
+Un guerrero imponente con una armadura dorada reluciente y un escudo con un símbolo de justicia grabado.
+Lleva una espada larga desenvainada, lista para atacar o defender.
+Su postura es orgullosa y firme, con una capa azul real ondeando detrás de él.
+Luz dorada brilla en su escudo cuando lo levanta, creando un efecto protector.
+Fondo: Un campo de batalla con banderas ondeando al viento y aliados protegidos detrás de él.
+
+6. Paladín Sagrado
+Descripción visual:
+
+Un guerrero divino con una armadura plateada y detalles dorados, emanando un aura celestial.
+Sostiene un martillo de guerra con símbolos divinos que brillan intensamente.
+Rayos de luz caen del cielo sobre él, iluminando su figura.
+Su expresión es serena pero decidida, con una mirada que inspira confianza.
+Fondo: Un templo sagrado bañado en luz dorada, con ángeles flotando en el aire.
+
+7. Clérigo Curativo
+Descripción visual:
+
+Una figura calmada con una túnica blanca bordada en dorado, simbolizando pureza y sanación.
+Sostiene un báculo con una esfera luminosa en la punta que emite un brillo verde suave.
+Energía curativa fluye de sus manos hacia un aliado herido arrodillado frente a él.
+Su expresión es serena y compasiva, con una mirada de bondad infinita.
+Fondo: Un santuario pacífico con velas encendidas y flores que crecen alrededor.
+
+8. Sanador Druida
+Descripción visual:
+
+Una figura naturalista con ropaje de cuero y pieles, adornado con hojas y musgo vivos.
+Sostiene un bastón hecho de madera viva, con raíces y flores que crecen constantemente.
+Raíces y plantas brotan del suelo donde está parado, sanando a los aliados cercanos.
+Su cabello tiene hojas entrelazadas, y su piel tiene un ligero tono verdoso.
+Fondo: Un bosque vibrante con árboles altos, cascadas y animales salvajes observando desde la distancia.

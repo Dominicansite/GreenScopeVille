@@ -1,0 +1,101 @@
+1. Guerrero Berserker
+Rol : Daño físico brutal.
+
+Habilidad 1: Furia Sangrienta
+Descripción: Cuando su salud cae por debajo del 30%, el daño aumenta en un 50% y gana resistencia al dolor (reduce el daño recibido en un 20%).
+Efecto visual: Una aura roja envuelve al guerrero, con partículas de energía flotando a su alrededor.
+Habilidad 2: Golpe Devastador
+Descripción: Un ataque cuerpo a cuerpo que inflige daño masivo a un solo objetivo, ignorando parte de su armadura.
+Efecto visual: El hacha brilla intensamente antes de impactar, creando una onda expansiva en el suelo.
+Habilidad 3: Torbellino
+Descripción: Gira rápidamente con su hacha, golpeando a todos los enemigos cercanos durante unos segundos.
+Efecto visual: Un remolino de fuego o energía rodea al guerrero mientras ataca.
+2. Asesino Sigiloso
+Rol : Daño físico rápido y letal.
+
+Habilidad 1: Sigilo Mortal
+Descripción: Se vuelve invisible durante unos segundos, permitiéndole moverse sin ser detectado. Su siguiente ataque inflige daño crítico garantizado.
+Efecto visual: Sombras densas lo envuelven, desapareciendo gradualmente.
+Habilidad 2: Golpe Venenoso
+Descripción: Ataca con una daga envenenada, causando daño instantáneo y aplicando un efecto de veneno que drena vida durante varios segundos.
+Efecto visual: La hoja de la daga brilla con un tono verde fluorescente, dejando un rastro tóxico.
+Habilidad 3: Asesinato Rápido
+Descripción: Si el enemigo tiene menos del 20% de salud, este ataque lo elimina instantáneamente.
+Efecto visual: Una ráfaga de sombras atraviesa al objetivo, dejando un eco oscuro.
+3. Mago Elementalista
+Rol : Daño mágico versátil.
+
+Habilidad 1: Llamarada Explosiva
+Descripción: Invoca una bola de fuego que explota al impactar, causando daño en área.
+Efecto visual: Una esfera de fuego sale disparada, estallando en llamas ardientes.
+Habilidad 2: Congelación Profunda
+Descripción: Lanza un proyectil de hielo que ralentiza a los enemigos golpeados y congela a aquellos con poca salud.
+Efecto visual: Un rayo de hielo azul emerge del bastón, cubriendo el área con escarcha.
+Habilidad 3: Tormenta Elemental
+Descripción: Invoca una tormenta de fuego, hielo y rayos sobre una zona amplia, causando daño continuo a todos los enemigos dentro del área.
+Efecto visual: Relámpagos, fuego y hielo caen del cielo, iluminando el campo de batalla.
+4. Hechicero Necromante
+Rol : Daño mágico oscuro y control.
+
+Habilidad 1: Drenaje de Vida
+Descripción: Lanza un hechizo que drena la vida del enemigo para restaurar la propia.
+Efecto visual: Energía oscura fluye desde el enemigo hacia el hechicero, curándolo.
+Habilidad 2: Ejército de Muertos
+Descripción: Invoca esqueletos que pelean por él durante un tiempo limitado. Los esqueletos pueden bloquear ataques y distraer enemigos.
+Efecto visual: Esqueletos emergen del suelo, rodeados de energía oscura.
+Habilidad 3: Maldición de Debilidad
+Descripción: Aplica una maldición a un enemigo, reduciendo su daño y velocidad de ataque durante varios segundos.
+Efecto visual: Runas oscuras flotan alrededor del objetivo afectado.
+5. Caballero Protector
+Rol : Tanque defensivo.
+
+Habilidad 1: Muro Inquebrantable
+Descripción: Levanta su escudo, bloqueando todo el daño durante unos segundos.
+Efecto visual: Una luz dorada surge del escudo, formando un campo de fuerza impenetrable.
+Habilidad 2: Carga Heroica
+Descripción: Embiste hacia adelante, empujando a los enemigos y aturdiéndolos brevemente.
+Efecto visual: Una estela dorada lo sigue mientras avanza, impactando con fuerza.
+Habilidad 3: Desafío
+Descripción: Provoca a todos los enemigos cercanos, forzándolos a atacarlo durante unos segundos.
+Efecto visual: Un rugido poderoso irradia desde el caballero, atrayendo la atención de los enemigos.
+6. Paladín Sagrado
+Rol : Tanque soporte.
+
+Habilidad 1: Bendición Divina
+Descripción: Cura a todos los aliados cercanos y purifica estados negativos como veneno o maldiciones.
+Efecto visual: Rayos de luz caen del cielo, sanando a los aliados con un brillo dorado.
+Habilidad 2: Escudo Sagrado
+Descripción: Crea un escudo protector alrededor de un aliado, absorbiendo una cantidad significativa de daño.
+Efecto visual: Un aura dorada rodea al aliado protegido, brillando intensamente.
+Habilidad 3: Juicio Final
+Descripción: Lanza un martillazo poderoso que inflige daño masivo a un enemigo y lo aturde si tiene poca salud.
+Efecto visual: Un rayo divino acompaña el golpe, iluminando el campo de batalla.
+7. Clérigo Curativo
+Rol : Soporte curativo.
+
+Habilidad 1: Renacimiento
+Descripción: Revive a un aliado caído, restaurando parte de su salud.
+Efecto visual: Partículas verdes flotan hacia el aliado, levantándolo lentamente.
+Habilidad 2: Sanación Grupal
+Descripción: Cura a todos los aliados cercanos gradualmente durante varios segundos.
+Efecto visual: Energía verde fluye desde el báculo hacia los aliados, curando sus heridas.
+Habilidad 3: Barrera de Luz
+Descripción: Crea una barrera que reduce el daño recibido por todos los aliados cercanos durante unos segundos.
+Efecto visual: Una cúpula de luz dorada cubre a los aliados, brillando intensamente.
+8. Sanador Druida
+Rol : Soporte natural.
+
+Habilidad 1: Crecimiento Salvaje
+Descripción: Crea una zona de regeneración donde las plantas sanan a los aliados cercanos gradualmente.
+Efecto visual: Raíces y flores brotan del suelo, emanando un brillo verde curativo.
+Habilidad 2: Invocación Animal
+Descripción: Invoca un lobo o un oso que pelea por él, distrayendo a los enemigos y protegiendo a los aliados.
+Efecto visual: Un animal salvaje emerge de la naturaleza, rodeado de energía verde.
+Habilidad 3: Purificación Natural
+Descripción: Elimina estados negativos (veneno, quemaduras, etc.) de un aliado y lo cura ligeramente.
+Efecto visual: Hojas y energía verde flotan hacia el aliado, limpiando sus heridas.
+Conclusión
+Cada habilidad está diseñada para reflejar la personalidad y función de su clase, asegurando que cada personaje tenga un rol único en el equipo. Puedes ajustar los valores numéricos (como daño, duración o alcance) según el nivel de poder deseado para tu juego.
+
+Respuesta final:
+{8 conjuntos de habilidades únicas y balanceadas para los 8 personajes basados en 4 clases principales.}
